@@ -6,11 +6,10 @@ group 'app'
 version '1.0.0'
 
 repositories {
-    mavenCentral()
-    maven { url 'https://jitpack.io' }
+
 }
 
 
 dependencies {
-    implementation 'com.github.LeeReindeer:codeflow-core:master-SNAPSHOT'
+
 }
